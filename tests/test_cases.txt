@@ -3,6 +3,8 @@ Steps: Navigate to the login page URL
 Expected Result: Login form is displayed with username and password fields
 
 TC002: Login
+Preconditions:
+1. Make sure login form is displayed
 Steps: 
 1. Enter login and password
 2. Click Login button
