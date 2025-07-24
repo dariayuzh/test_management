@@ -1,5 +1,5 @@
 def test_login_page_load():
-    print("login page load successful")
+    print("login page load successful successful")
     a = 1
     assert a == 1, f"Variable 'a' has value {a}, expected 1"
 
