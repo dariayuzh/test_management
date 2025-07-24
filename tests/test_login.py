@@ -6,3 +6,5 @@ def test_successful_login():
 
 def test_log_out():
     print("log out")
+    a = 1
+    assert a == 1, f"{a} does have expected value = 1"
