@@ -2,7 +2,7 @@ TC001: Login page loads
 Steps: Navigate to the login page URL
 Expected Result: Login form is displayed with username and password fields
 
-TC002: Login
+TC002: Login abc
 Preconditions:
 1. Make sure login form is displayed
 Steps: 
