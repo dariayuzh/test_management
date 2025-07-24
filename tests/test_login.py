@@ -8,3 +8,4 @@ def test_successful_login():
 
 def test_log_out():
     print("logout successful")
+    print("logout successful")
