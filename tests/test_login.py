@@ -1,5 +1,5 @@
 def test_login_page_load():
-    print("login page load")
+    print("login page load successful")
 
 def test_successful_login():
     print("successful login")
