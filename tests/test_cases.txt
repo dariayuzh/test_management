@@ -1,4 +1,8 @@
-TC001: Login
+TC001: Login page loads
+Steps: Navigate to the login page URL
+Expected Result: Login form is displayed with username and password fields
+
+TC002: Login
 Steps: 
 1. Enter login and password
 2. Click Login button
