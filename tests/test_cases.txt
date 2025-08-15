@@ -1,4 +1,9 @@
-TC001: Successful login
+TC001: Login Page Loads
+Steps:
+1. Navigate to the login page URL
+Expected Result: Login form is displayed with username and password fields
+
+TC002: Successful login
 Preconditions: Login form is displayed
 Steps:
 1. Enter login and password
