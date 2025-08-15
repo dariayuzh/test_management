@@ -1,1 +1,4 @@
-# test_management
+# Test Management
+
+## Prerequisites
+1. Install VS Code

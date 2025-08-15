@@ -1,0 +1,5 @@
+TC001: Successful login
+Steps:
+1. Enter login and password
+2. Click Login button
+Expected results: User is logged in
